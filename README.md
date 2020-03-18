@@ -1,3 +1,152 @@
+# Progress on Algorithms & Data Structures
+
+Todo: Create 2 tables, 1 for topics and 1 for algorithms
+
+Todo: Make sure that the table is accurate
+
+* __Beginner__ - Solved at least 3 easy problems (LeetCode)
+* __Memorized it__ - The first 2 best solutions
+* __Novice__ - Solved at least 4 medium problems (LeetCode)
+* __Proficient__ - Solved at least 5 hard problems (LeetCode)
+
+:heavy_check_mark: = Yes
+:x: = No
+:heavy_exclamation_mark: = Not Applicable
+
+Subject | Read it | Beginner | Memorized it | Novice | Proficient
+------- | ------- | -------- | ------------ | ------ | ----------
+O(n) time   | :heavy_check_mark: | :heavy_exclamation_mark: | :x:  | :heavy_exclamation_mark:  | :x:  
+O(n) memory | :x: | :heavy_exclamation_mark: | :x:  | :heavy_exclamation_mark:  | :x:  
+Arrays (x2) | :heavy_check_mark: | :x: | :x:  | :x:  | :x:  
+Hash Tables | :x: | :x: | :x:  | :x:  | :x:  
+Strings (x2) | :heavy_check_mark: | :x: | :x:  | :x:  | :x:  
+Bitwise | :x: | :x: | :x:  | :x:  | :x:  
+Counting | :heavy_check_mark: | :x: | :x:  | :x:  | :x:  
+Prefix Sums | :heavy_check_mark: | :x: | :x:  | :x:  | :x:  
+Recursion | :heavy_check_mark: | :x: | :x:  | :x:  | :x:  
+Lists | :heavy_check_mark: | :x: | :x:  | :x:  | :x:  
+Stacks | :heavy_check_mark: | :x: | :x:  | :x:  | :x:  
+Queues | :heavy_check_mark: | :x: | :x:  | :x:  | :x:  
+Quick Sort | :x: | :x: | :x:  | :x:  | :x:  
+Bubble Sort | :heavy_check_mark: | :x: | :x:  | :x:  | :x:  
+Insertion Sort | :x: | :x: | :x:  | :x:  | :x:  
+Merge Sort | :heavy_check_mark: | :x: | :x:  | :x:  | :x:  
+Radix Sort | :x: | :x: | :x:  | :x:  | :x:  
+Counting Sort | :x: | :x: | :x:  | :x:  | :x:  
+Radix Sort | :x: | :x: | :x:  | :x:  | :x:  
+Searching | :heavy_check_mark: | :x: | :x:  | :x:  | :x:  
+Binary Search | :heavy_check_mark: | :x: | :x:  | :x:  | :x:  
+Leader | :heavy_check_mark: | :x: | :x:  | :x:  | :x:  
+Maximum Sub-Array | :heavy_check_mark: | :x: | :x:  | :x:  | :x:  
+Prime numbers | :heavy_check_mark: | :x: | :x:  | :x:  | :x:  
+Composite numbers | :x: | :x: | :x:  | :x:  | :x:  
+Sieve of Eratosthenes | :x: | :x: | :x:  | :x:  | :x:  
+Fibonacci sequence | :x: | :x: | :x:  | :x:  | :x:  
+Two Pointers | :x: | :x: | :x:  | :x:  | :x:  
+Backtracking | :x: | :x: | :x:  | :x:  | :x:
+Divide and Conquer | :x: | :x: | :x:  | :x:  | :x:
+Graphs | :x: | :x: | :x:  | :x:  | :x:
+Breadth First Search | :x: | :x: | :x:  | :x:  | :x:
+Depth First Search | :x: | :x: | :x:  | :x:  | :x:
+Greedy | :x: | :x: | :x:  | :x:  | :x:  
+Huffman Codes | :x: | :x: | :x:  | :x:  | :x:  
+Dynamic Programming | :x: | :x: | :x:  | :x:  | :x:  
+Knapsack Problem | :x: | :x: | :x:  | :x:  | :x:  
+All Pair Shortest Paths | :x: | :x: | :x:  | :x:  | :x:  
+Heaps | :x: | :x: | :x:  | :x:  | :x:  
+Heap Sort | :x: | :x: | :x:  | :x:  | :x:  
+Binary Search Tree | :x: | :x: | :x:  | :x:  | :x:  
+Binary Search Tree Sort | :x: | :x: | :x:  | :x:  | :x:  
+AVL Trees | :x: | :x: | :x:  | :x:  | :x:  
+AVL Sort | :x: | :x: | :x:  | :x:  | :x:  
+Hashing | :x: | :x: | :x:  | :x:  | :x:  
+Table Doubling | :x: | :x: | :x:  | :x:  | :x:  
+Karp Robin | :x: | :x: | :x:  | :x:  | :x:  
+Open Addressing | :x: | :x: | :x:  | :x:  | :x:  
+Cryptographic Hashing | :x: | :x: | :x:  | :x:  | :x:  
+Integer Arithmetic | :x: | :x: | :x:  | :x:  | :x:  
+Karatsuba Multiplication | :x: | :x: | :x:  | :x:  | :x:  
+Square Roots | :x: | :x: | :x:  | :x:  | :x:  
+Newton's Method | :x: | :x: | :x:  | :x:  | :x:  
+Single Source Shortest Paths Problem | :x: | :x: | :x:  | :x:  | :x:  
+Dijkstra | :x: | :x: | :x:  | :x:  | :x:  
+Bellman-Ford | :x: | :x: | :x:  | :x:  | :x:  
+Karger's Algorithm | :x: | :x: | :x:  | :x:  | :x:  
+Bloom filter | :x: | :x: | :x:  | :x:  | :x:  
+Prim's Minimum Spanning Tree | :x: | :x: | :x:  | :x:  | :x:  
+Kruskal's Minimum Spanning Tree | :x: | :x: | :x:  | :x:  | :x:  
+NP complete problems | :x: | :x: | :x:  | :x:  | :x:  
+Approximation algorithms for NP problems | :x: | :x: | :x:  | :x:  | :x:  
+Local Search Algorithms for NP problems | :x: | :x: | :x:  | :x:  | :x:  
+
+# Progress on Mathematics for Computer Science
+
+Todo: Make sure the table is accurate
+
+Todo: Complete the table with all the required subjects
+
+* __Beginner__ - Solved at least 2 problems
+* __Novice__ - Solved at least 4 problems
+* __Proficient__ - Solved at least 5 hard problems (LeetCode)
+
+:heavy_check_mark: = Yes
+:x: = No
+:heavy_exclamation_mark: = Not Applicable
+
+Subject | Read it | Beginner | Memorized it | Novice
+------- | ------- | -------- | ------------ | ------
+Sums   | :heavy_check_mark: | :heavy_exclamation_mark: | :x:  | :heavy_exclamation_mark:   
+Geometry   | :heavy_check_mark: | :heavy_exclamation_mark: | :x:  | :heavy_exclamation_mark:   
+Proofs | :x: | :heavy_exclamation_mark: | :x:  | :heavy_exclamation_mark:
+Graphs | :x: | :heavy_exclamation_mark: | :x:  | :heavy_exclamation_mark:
+
+# Progress on Related CS fields
+
+* __Beginner__ - Solved at least 2 problems
+* __Novice__ - Solved at least 4 problems
+* __Proficient__ - Solved at least 5 hard problems (LeetCode)
+
+:heavy_check_mark: = Yes
+:x: = No
+:heavy_exclamation_mark: = Not Applicable
+
+Subject | Read it | Beginner | Memorized it | Novice
+------- | ------- | -------- | ------------ | ------
+Assembly   | :heavy_check_mark: | :heavy_exclamation_mark: | :x:  | :heavy_exclamation_mark:   
+Hardware   | :heavy_check_mark: | :heavy_exclamation_mark: | :x:  | :heavy_exclamation_mark:   
+OSes (Linux, BSD, Solaris)   | :heavy_check_mark: | :heavy_exclamation_mark: | :x:  | :heavy_exclamation_mark:   
+Pointers   | :heavy_check_mark: | :heavy_exclamation_mark: | :x:  | :heavy_exclamation_mark:   
+Generators   | :heavy_check_mark: | :heavy_exclamation_mark: | :x:  | :heavy_exclamation_mark:   
+Databases (Mysql, MongoDB)   | :heavy_check_mark: | :heavy_exclamation_mark: | :x:  | :heavy_exclamation_mark:   
+System Design   | :heavy_check_mark: | :heavy_exclamation_mark: | :x:  | :heavy_exclamation_mark:   
+Design Patterns   | :heavy_check_mark: | :heavy_exclamation_mark: | :x:  | :heavy_exclamation_mark:
+
+# Progress on Books Read
+
+Todo: Complete the table with the intended books
+
+Subject | Read it | Re-Read it
+------- | ------- | --------------
+Grokking Alorithms  | :x: | :x:   
+Cracking the Coding Interview  | :x: | :x:   
+Programming Pearls  | :x: | :x:   
+
+# Progress on coding goals
+
+Subject | Read it | Re-Read it
+------- | ------- | --------------
+Read all the algorithms  | :x: | :x:   
+Solve at least one problem for each algorithm  | :x: | :x:   
+Implement algorithms in python  | :x: | :x:   
+Solve 100 LeetCode algorithms  | :x: | :x:   
+Solve 300 LeetCode algorithms  | :x: | :x:   
+Solve all Codility lessons with 100% performance  | :x: | :x:   
+Participate in 10 coding contests  | :x: | :x:   
+Work on all problems in a contests  | :x: | :x:   
+Get a decent score in a contest (70/100)  | :x: | :x:   
+Finish a contest in the first 2000  | :x: | :x:
+Finish a contest in the first 500  | :x: | :x:
+
 # Websites to train your algorithm skills
 
 * [Codility](https://app.codility.com/programmers/)
