@@ -204,6 +204,28 @@ Finish a contest in the first 500  | :x: | :x:
 * Coders at work
 * Cracking the Coding Interview
 
+# Algorithms you should know before doing system design
+
+* https://leetcode.com/discuss/interview-question/system-design/547669/algorithm-you-should-know-before-system-design
+* https://github.com/resumejob/system-design-algorithms
+
+1) Frugal Streaming
+2) Geohash / S2 Geometry
+3) Leaky bucket / Token bucket
+4) Loosy Counting
+5) Operational transformation
+6) Quadtree / Rtree
+7) Ray casting
+8) Reverse index
+9) Rsync algorithm
+10) Trie algorithm
+11) Consistent Hashing
+12) Bloom Filters
+13) HyperLogLog algorithm
+14) Merkle trees
+15) Count-Min Sketch
+16) Skip Lists
+
 # Some cool articles I found
 
 https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0
