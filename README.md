@@ -5,11 +5,9 @@
 * __Novice__ - Solved at least 4 medium leetcode problems
 * __Proficient__ - Solved at least 5 hard leetcode problems
 
-:heavy_check_mark: Yes
-
-:x: No
-
-:heavy_exclamation_mark: Not Applicable
+Yes | No | Not Applicable
+--- | -- | --------------
+:heavy_check_mark: | :x: | :heavy_exclamation_mark:
 
 Subject | Read it | Beginner | Memorized it | Novice | Proficient
 ------- | ------- | -------- | ------------ | ------ | ----------
