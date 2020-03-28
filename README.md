@@ -119,6 +119,7 @@ Clean Coder  | :x: | :x:
 Domain-Driven Design | :x: | :x:   
 Programming Pearls  | :x: | :x:   
 Coders at work  | :x: | :x:   
+The Art of Computer Programming  | :x: | :x:   
 
 # Progress on coding goals
 
