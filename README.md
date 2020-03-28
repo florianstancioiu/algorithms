@@ -1,18 +1,20 @@
-# Progress on Algorithms & Data Structures
+# Progress on algorithms
 
 * __Beginner__ - Solved at least 3 easy leetcode problems
 * __Memorized it__ - The first 2 best solutions
 * __Novice__ - Solved at least 4 medium leetcode problems
 * __Proficient__ - Solved at least 5 hard leetcode problems
 
-:heavy_check_mark: = Yes
-:x: = No
-:heavy_exclamation_mark: = Not Applicable
+:heavy_check_mark: Yes
+
+:x: No
+
+:heavy_exclamation_mark: Not Applicable
 
 Subject | Read it | Beginner | Memorized it | Novice | Proficient
 ------- | ------- | -------- | ------------ | ------ | ----------
 O(n) time   | :heavy_check_mark: | :heavy_exclamation_mark: | :heavy_check_mark: | :heavy_exclamation_mark: | :heavy_exclamation_mark:  
-O(n) memory | :x: | :x: | :x:  | :x:  | :x:  
+O(n) memory | :x: | :heavy_exclamation_mark: | :x:  | :heavy_exclamation_mark:  | :heavy_exclamation_mark:  
 Arrays (x2) | :heavy_check_mark: | :x: | :heavy_check_mark:  | :x:  | :x:  
 Hash Tables | :heavy_check_mark: | :x: | :heavy_check_mark:  | :x:  | :x:  
 Strings (x2) | :heavy_check_mark: | :x: | :x:  | :x:  | :x:  
@@ -75,7 +77,7 @@ NP complete problems | :x: | :x: | :x:  | :x:  | :x:
 Approximation algorithms for NP problems | :x: | :x: | :x:  | :x:  | :x:  
 Local Search Algorithms for NP problems | :x: | :x: | :x:  | :x:  | :x:  
 
-# Websites to train your algorithm skills
+# Websites to train your skills
 
 * [Codility](https://app.codility.com/programmers)
 * [LeetCode](https://leetcode.com)
@@ -88,23 +90,19 @@ Local Search Algorithms for NP problems | :x: | :x: | :x:  | :x:  | :x:
 * [AtCoder](https://atcoder.jp)
 * [Code Chef](https://www.codechef.com)
 
-# Progress on Computer Science fields
+# Progress on computer science fields
 
-:heavy_check_mark: = Yes
-:x: = No
-:heavy_exclamation_mark: = Not Applicable
+Subject | Read it | Re-read it
+------- | ------- | --------
+Assembly   | :x: | :x:   
+System Design   | :x: | :x:   
+Design Patterns   | :x: | :x:
+Hardware   | :x: | :x:   
+Pointers   | :x: | :x:   
+Databases (Mysql, MongoDB)   | :x: | :x:   
+OSes (Linux, BSD, Solaris)   | :x: | :x:   
 
-Subject | Read it | Beginner | Novice
-------- | ------- | -------- | ------------
-Assembly   | :x: | :heavy_exclamation_mark: | :x:   
-System Design   | :x: | :heavy_exclamation_mark: | :x:   
-Design Patterns   | :x: | :heavy_exclamation_mark: | :x:
-Hardware   | :x: | :heavy_exclamation_mark: | :x:   
-Pointers   | :x: | :heavy_exclamation_mark: | :x:   
-Databases (Mysql, MongoDB)   | :heavy_check_mark: | :heavy_exclamation_mark: | :x:   
-OSes (Linux, BSD, Solaris)   | :x: | :heavy_exclamation_mark: | :x:   
-
-# Progress on Books Read
+# Progress on books
 
 Subject | Read it | Re-Read it
 ------- | ------- | --------------
@@ -146,24 +144,16 @@ Finish a contest in the first 500  | :x:
 * [Data Structures and Algorithms Specialization - University of California San Diego](https://www.coursera.org/specializations/data-structures-algorithms)
 * [Python for Everybody Specialization - University of Michigan](https://www.coursera.org/specializations/python)
 
-# Free MIT OpenCourseWare classes
+# MIT OpenCourseWare classes
 
 * [Introduction to Algorithms - 2011](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
 * [Design and Analysis of Algorithms - 2015](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/)
 * [Advanced Algorithms - 2008](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-854j-advanced-algorithms-fall-2008/)
 * [Introduction to Algorithms - 2005](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/)
 
-# Progress on Mathematics for Computer Science
+# Progress on mathematics for computer science
 
 Todo: Complete the table with all the required subjects
-
-* __Beginner__ - Solved at least 2 problems
-* __Novice__ - Solved at least 4 problems
-* __Proficient__ - Solved at least 5 hard problems (LeetCode)
-
-:heavy_check_mark: = Yes
-:x: = No
-:heavy_exclamation_mark: = Not Applicable
 
 Subject | Read it | Beginner | Novice
 ------- | ------- | -------- | ------------
