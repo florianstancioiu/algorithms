@@ -160,6 +160,8 @@ Sums   | :x: | :x: | :x:
 Geometry   | :x: | :x: | :x:   
 Proofs | :x: | :x: | :x:
 Graphs | :x: | :x: | :x:
+Combinations | :x: | :x: | :x:
+Permutations | :x: | :x: | :x:
 
 # Choosing between Java and Python as the next language to learn
 
