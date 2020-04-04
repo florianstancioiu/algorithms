@@ -1,9 +1,9 @@
 # Progress on algorithms
 
-* __Beginner__ - Solved at least 3 easy leetcode problems
+* __Beginner__ - Solved at least 2 easy leetcode problems
 * __Memorized it__ - The first 2 best solutions
-* __Novice__ - Solved at least 4 medium leetcode problems
-* __Proficient__ - Solved at least 5 hard leetcode problems
+* __Novice__ - Solved at least 2 medium leetcode problems
+* __Proficient__ - Solved at least 2 hard leetcode problems
 
 Yes | No | Not Applicable
 --- | -- | --------------
@@ -97,6 +97,7 @@ System Design   | :x: | :x:
 Design Patterns   | :x: | :x:
 Hardware   | :x: | :x:   
 Pointers   | :x: | :x:   
+Iterators   | :x: | :x:   
 Databases (Mysql, MongoDB)   | :x: | :x:   
 OSes (Linux, BSD, Solaris)   | :x: | :x:   
 
@@ -127,7 +128,7 @@ Subject | Completed
 ------- | -------
 Read all the algorithms  | :x:
 Solve at least one problem for each algorithm  | :x:   
-Implement algorithms in python  | :x:
+Implement algorithms in Java  | :x:
 Solve 100 LeetCode algorithms  | :x:   
 Solve 300 LeetCode algorithms  | :x:   
 Solve all Codility lessons with 100% performance  | :x:   
@@ -139,9 +140,9 @@ Finish a contest in the first 500  | :x:
 
 # Coursera courses I intend getting certified for
 
-* [Algorithms Specialization - Standford](https://www.coursera.org/specializations/algorithms)
-* [Data Structures and Algorithms Specialization - University of California San Diego](https://www.coursera.org/specializations/data-structures-algorithms)
-* [Python for Everybody Specialization - University of Michigan](https://www.coursera.org/specializations/python)
+* [Algorithms Specialization](https://www.coursera.org/specializations/algorithms)
+* [Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms)
+* [Python for Everybody Specialization](https://www.coursera.org/specializations/python)
 
 # MIT OpenCourseWare classes
 
