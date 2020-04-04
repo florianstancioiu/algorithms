@@ -160,3 +160,20 @@ Sums   | :x: | :x: | :x:
 Geometry   | :x: | :x: | :x:   
 Proofs | :x: | :x: | :x:
 Graphs | :x: | :x: | :x:
+
+# Choosing between Java and Python as the next language to learn
+
+Subject | Java | Python
+------- | ------- | --------
+Familiar syntax | :heavy_check_mark: | :x:   
+Easy to learn | :x: | :heavy_check_mark:   
+Large salary | :heavy_check_mark: | :heavy_check_mark:   
+Large salary in Romania | :heavy_check_mark: | :x:
+Lots of opportunities | :heavy_check_mark: | :x:
+Fast language | :heavy_check_mark: | :x:
+Used in MIT courses | :x: | :heavy_check_mark:
+
+Java: 5 points
+Python: 3 points
+
+__Winner:__ Java
