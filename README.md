@@ -121,6 +121,7 @@ Domain-Driven Design | :x: | :x:
 Programming Pearls  | :x: | :x:   
 Coders at work  | :x: | :x:   
 The Art of Computer Programming  | :x: | :x:   
+[Competitive Programmer’s Handbook](https://cses.fi/book/book.pdf) | :x: | :x:   
 
 # Progress on coding goals
 
@@ -163,6 +164,9 @@ Proofs | :x: | :x: | :x:
 Graphs | :x: | :x: | :x:
 Combinations | :x: | :x: | :x:
 Permutations | :x: | :x: | :x:
+Algebra | :x: | :x: | :x:
+Modular Arithmetic | :x: | :x: | :x:
+Number Theory | :x: | :x: | :x:
 
 # Choosing between Java and Python as the next language to learn
 
