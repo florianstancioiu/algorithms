@@ -88,6 +88,11 @@ Local Search Algorithms for NP problems | :x: | :x: | :x:  | :x:  | :x:
 * [AtCoder](https://atcoder.jp)
 * [Code Chef](https://www.codechef.com)
 
+# Contests you can test your skils
+* LeetCode Weekly
+* AtCoder Beginner
+* Codeforces Div 3
+
 # Progress on computer science fields
 
 Subject | Read it | Re-read it
@@ -167,6 +172,10 @@ Permutations | :x: | :x: | :x:
 Algebra | :x: | :x: | :x:
 Modular Arithmetic | :x: | :x: | :x:
 Number Theory | :x: | :x: | :x:
+
+# Useful Links
+
+* [Fundamentals Of Algorithms](https://www.geeksforgeeks.org/fundamentals-of-algorithms/)
 
 # Choosing between Java and Python as the next language to learn
 
