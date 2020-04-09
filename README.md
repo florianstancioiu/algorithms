@@ -108,25 +108,25 @@ OSes (Linux, BSD, Solaris)   | :x: | :x:
 
 # Progress on books
 
-Subject | Read it | Re-Read it
-------- | ------- | --------------
-Grokking Algorithms  | :x: | :x:   
-Cracking the Coding Interview  | :x: | :x:   
-Programming Pearls  | :x: | :x:   
-The GoF Design Patterns  | :x: | :x:   
-Head first Design Patterns  | :x: | :x:   
-Design Patterns: Elements of Reusable Object-Oriented Software  | :x: | :x:   
-The Mythical Man-Month  | :x: | :x:   
-Clean Code  | :x: | :x:   
-Refactoring by Martin Fowler  | :x: | :x:   
-The Design of Everyday Things  | :x: | :x:   
-Effective Java  | :x: | :x:   
-Clean Coder  | :x: | :x:   
-Domain-Driven Design | :x: | :x:   
-Programming Pearls  | :x: | :x:   
-Coders at work  | :x: | :x:   
-The Art of Computer Programming  | :x: | :x:   
-[Competitive Programmer’s Handbook](https://cses.fi/book/book.pdf) | :x: | :x:   
+Subject | Bought it | Read it | Re-Read it
+------- | --------- | ------- | --------------
+Grokking Algorithms  | :x: | :x: | :x:   
+Cracking the Coding Interview  | :x: | :x: | :x:   
+Programming Pearls  | :x: | :x: | :x:
+The GoF Design Patterns  | :x: | :x: | :x:  
+Head first Design Patterns  | :x: | :x: | :x:
+Design Patterns: Elements of Reusable Object-Oriented Software  | :x: | :x: | :x:   
+The Mythical Man-Month  | :x: | :x: | :x:
+Clean Code  | :x: | :x: | :x:
+Refactoring by Martin Fowler  | :x: | :x: | :x:   
+The Design of Everyday Things  | :x: | :x: | :x:
+Effective Java  | :x: | :x: | :x:
+Clean Coder  | :x: | :x: | :x:
+Domain-Driven Design | :x: | :x: | :x:   
+Programming Pearls  | :x: | :x: | :x:
+Coders at work  | :x: | :x: | :x:
+The Art of Computer Programming  | :x: | :x: | :x:   
+[Competitive Programmer’s Handbook](https://cses.fi/book/book.pdf) | :x: | :x: | :x:   
 
 # Progress on coding goals
 
