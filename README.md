@@ -126,7 +126,7 @@ Domain-Driven Design | :x: | :x: | :x:
 Programming Pearls  | :x: | :x: | :x:
 Coders at work  | :x: | :x: | :x:
 The Art of Computer Programming  | :x: | :x: | :x:   
-[Competitive Programmer’s Handbook](https://cses.fi/book/book.pdf) | :x: | :x: | :x:   
+Competitive Programmer’s Handbook | :x: | :x: | :x:   
 
 # Progress on coding goals
 
