@@ -177,19 +177,3 @@ Number Theory | :x: | :x: | :x:
 
 * [Fundamentals Of Algorithms](https://www.geeksforgeeks.org/fundamentals-of-algorithms/)
 
-# Choosing between Java and Python as the next language to learn
-
-Subject | Java | Python
-------- | ------- | --------
-Familiar syntax | :heavy_check_mark: | :x:   
-Easy to learn | :x: | :heavy_check_mark:   
-Large salary | :heavy_check_mark: | :heavy_check_mark:   
-Large salary in Romania | :heavy_check_mark: | :x:
-Lots of opportunities | :heavy_check_mark: | :x:
-Fast language | :heavy_check_mark: | :x:
-Used in MIT courses | :x: | :heavy_check_mark:
-
-Java: 5 points
-Python: 3 points
-
-__Winner:__ Java
