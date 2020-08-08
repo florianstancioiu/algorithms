@@ -134,7 +134,7 @@ Subject | Completed
 ------- | -------
 Read all the algorithms  | :x:
 Solve at least one problem for each algorithm  | :x:   
-Implement algorithms in Java  | :x:
+Implement algorithms in C++  | :x:
 Solve 100 LeetCode algorithms  | :x:   
 Solve 300 LeetCode algorithms  | :x:   
 Solve all Codility lessons with 100% performance  | :x:   
@@ -176,4 +176,3 @@ Number Theory | :x: | :x: | :x:
 # Useful Links
 
 * [Fundamentals Of Algorithms](https://www.geeksforgeeks.org/fundamentals-of-algorithms/)
-
